@@ -1,1 +1,1 @@
-my first shell redirection readme
+Display the content of the /etc/passwd file
