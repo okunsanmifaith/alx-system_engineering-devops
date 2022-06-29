@@ -1,2 +1,2 @@
 #!/bin/bash
-alias hello user="hello $User" 
+alias hello user="hello $USER" 
