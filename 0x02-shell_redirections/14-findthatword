@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /ete/passwd | grep "root" 
+cat /etc/passwd | grep "root" 
