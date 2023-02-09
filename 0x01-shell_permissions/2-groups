@@ -1,4 +1,4 @@
 #!/bin/bash
-id -nG 2-groups
+id -Gn
 
 
